@@ -1,0 +1,23 @@
+1. 아래를 프로그래밍 하시오.(못 짜면 안되겠져- 무조건 외워 주세요.)
+
+출력
+Hello World
+I am a programer.
+
+public class HelloWorld
+public static void main(string[] args)
+system.out.println("Hello World!!");
+system.out.println("I am a programer.");
+
+2.아래의 하드웨어에 대하여 설명하시오.
+ -CPU
+컴퓨터의 대뇌 프로그램의 명령어를 해석하여 연산하고 외부로 출력하는 역활을 함
+ -메모리
+프로그램이 실행되는 동안 필요한 정보를 저장하는 기능을 함
+ -CPU가 2진수만 알아 듣는 이유.
+오류의 최소화와 효율성 때문에?
+
+
+3.OS의 역활은 무엇이며, OS의 종류에는 무엇이 있는가?
+하드웨어의 능력을 잘 발휘하도록 도와주는 역활 응용 프로그램 을  실행 할수있게 도와준다
+종류는 윈도우.리눅스.유닉스
